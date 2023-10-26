@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://api007.alin.top/:match*"
+      "destination": "https://service-81fz5qeg-1258102992.gz.apigw.tencentcs.com/:match*"
     }
   ]
 }
